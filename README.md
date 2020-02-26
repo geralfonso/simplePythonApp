@@ -1,1 +1,1 @@
-# aws-platzi-python
+# Simple Python App
